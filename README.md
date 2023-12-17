@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nick
+My name is Nick, im second year student in MNTY.
 
 <!--
 **Niksterr/Niksterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
